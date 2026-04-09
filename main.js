@@ -30,7 +30,7 @@ sap.ui.define([], function () {
   }
 
   customElements.define(
-    "com-company-simple-widget",
+    "com-company-simple-widget1",
     SimpleWidget
   );
 
